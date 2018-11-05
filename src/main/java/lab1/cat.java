@@ -13,12 +13,12 @@ import java.util.Date;
 
 public class cat {
     public static void main(String[] args){
-        String firstName = "Евгений";
-        String middleName = "Валерьевич";
-        String lastName = "Батура";
-        String teacherfirstName = "Татьяна";
-        String teachermiddleName = "Викторовна";
-        String teacherlastName = "Волкова";
+        String firstName = "";
+        String middleName = "";
+        String lastName = "";
+        String teacherfirstName = "";
+        String teachermiddleName = "";
+        String teacherlastName = "";
         String groupCode = "ИВТ/б-12о";
         Date date = new Date();
         int variant = 4;
